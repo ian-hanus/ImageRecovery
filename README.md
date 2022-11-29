@@ -1,0 +1,2 @@
+## Compressed Sensing Image Recovery
+Exploration and analysis of machine learning techniques for recovery of images from corruption and compression. The full report can be found [here](https://github.com/ian-hanus/ImageRecovery.git) or in the CompressedSensingImageRecovery.pdf doc.
